@@ -6,7 +6,7 @@
 [Launcher.exe](https://github.com/quentinhouillon/launcher/releases/download/v1.0/Launcher-1.0.zip)
 
 #### code source
-- Pourrécupérer le code source:
+- Pour récupérer le code source:
 [GitHub](https://github.com/quentinhouillon/launcher_interface)
 
 #### Description
