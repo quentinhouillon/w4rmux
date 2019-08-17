@@ -10,7 +10,7 @@
 [GitHub](https://github.com/quentinhouillon/launcher_interface)
 
 #### Description
-Launcher vous permet de lancer vos applications et vos
+- Launcher vous permet de lancer vos applications et vos
 sites web avec vos propre mots clés que vous pouvez personnaliser et configurer 
 facilements
 
