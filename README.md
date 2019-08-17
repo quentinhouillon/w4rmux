@@ -1,14 +1,15 @@
 # W4rmux
 
 ## launcher
-### Télécharger
+#### Télécharger
+- Pour télécharger Launcher:
 [Launcher.exe](https://github.com/quentinhouillon/launcher/releases/download/v1.0/Launcher-1.0.zip)
 
-### Récupérer le code source
-- Vous pouvez récupérer le code a tout moment:
+#### code source
+- Pourrécupérer le code source:
 [GitHub](https://github.com/quentinhouillon/launcher_interface)
 
-### Description
+#### Description
 Launcher vous permet de lancer vos applications et vos
 sites web avec vos propre mots clés que vous pouvez personnaliser et configurer 
 facilements
@@ -17,18 +18,18 @@ facilements
 
 ---
 
-### Développement
+#### Développement
 - Python 3.6
 - Tkinter (GUI)
 - Json
 
-### Outils utilisés
+#### Outils utilisés
 - Visual Studio Code
 
-### Plateforme
+#### Plateforme
 - Windows
 
-### License
+#### License
 - Tous droits réservés
 
 ## Auteur
