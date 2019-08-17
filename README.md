@@ -1,6 +1,4 @@
-# W4rmux
-
-## launcher
+### launcher
 #### Télécharger
 - Pour télécharger Launcher:
 [Launcher.exe](https://github.com/quentinhouillon/launcher/releases/download/v1.0/Launcher-1.0.zip)
