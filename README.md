@@ -1,3 +1,4 @@
+## Applications
 ### launcher
 #### Télécharger
 - Pour télécharger Launcher:
@@ -30,5 +31,5 @@ facilements
 #### License
 - Tous droits réservés
 
-## Auteur
+### Auteur
 - w4rmux
