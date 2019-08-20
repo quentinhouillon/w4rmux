@@ -1,8 +1,8 @@
 ## Applications
 - [Launcher.exe](https://quentinhouillon.github.io/launcher/)
 
-#### License
+## License
 - Tous droits réservés
 
-### Auteur
-- w4rmux
+## Auteur
+- Quentin Houillon: alias w4rmux
