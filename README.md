@@ -2,7 +2,7 @@
 ### launcher
 #### Télécharger
 - Pour télécharger Launcher:
-[Launcher.exe](https://github.com/quentinhouillon/launcher/releases/download/v1.0/Launcher-1.0.zip)
+[Launcher.exe](https://github.com/quentinhouillon/launcher/releases/download/v1.0/Launcher.zip)
 
 #### code source
 - Pour récupérer le code source:
