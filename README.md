@@ -1,6 +1,6 @@
 ## Applications
 - [Launcher.exe](https://quentinhouillon.github.io/launcher/)
-- [ToDo.exe](https://quentinhouillon.github.io/todo/)
+- [MyNote.exe](https://quentinhouillon.github.io/todo/)
 - [Youtube_views.exe](https://quentinhouillon.github.io/Youtube_views/)
 
 ## License
